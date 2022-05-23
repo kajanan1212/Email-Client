@@ -1,0 +1,4 @@
+Personal: Kamilan,Kami,assignmentoneoop@gmail.com,1999/02/16
+Office_Friend: Thulasiyan,assignmenttwooop@gmail.com,manager,2000/01/16
+Official: Raja,assignmentthreeoop@gmail.com,ceo
+Office_Friend: Lathurshanan,assignmentfouroop@gmail.com,manager,2000/3/26
